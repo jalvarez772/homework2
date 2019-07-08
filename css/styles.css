@@ -1,0 +1,60 @@
+.container-fluid {
+  background-color: yellow;
+}
+
+.header-blue {
+  color: black;
+  background-color: blue;
+  height: 105px;
+  border-left: 3px solid black;
+  border-top: 3px solid black;
+  border-right: 3px solid black;
+  margin-top: 40px;
+}
+
+.nav-green {
+  color: black;
+  background-color: green;
+  border-left: 3px solid black;
+  border-top: 3px solid black;
+  border-right: 3px solid black;
+}
+
+.content-red {
+  color: black;
+  background-color: red;
+  height: 200px;
+  border-left: 3px solid black;
+  border-top: 3px solid black;
+}
+
+.aside-lightblue {
+  color: black;
+  background-color: lightblue;
+  height: 200px;
+  border-left: 3px solid black;
+  border-top: 3px solid black;
+  border-right: 3px solid black;
+}
+
+.promo {
+  color: black;
+  background-color: orange;
+  height: 175px;
+  border-left: 3px solid black;
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+}
+
+.promo4 {
+  border-right: 3px solid black;
+}
+
+.footer-black {
+  color: white;
+  background-color: black;
+  border-left: 3px solid black;
+  border-bottom: 3px solid black;
+  border-right: 3px solid black;
+  margin-bottom: 40px;
+}
